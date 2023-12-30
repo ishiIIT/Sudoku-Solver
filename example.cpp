@@ -16,6 +16,7 @@ int main()
             cout<<c[i]<<s[1]<<endl;
             if(r[i]!=s[1])
             cout<<s[0]<<r[i]<<endl;
+            cout<<"Ishita"<<endl;
         } 
     }
 }
